@@ -1,2 +1,2 @@
-# nba_playoff_simulation
-Predict results of NBA play-off series based on refular season results
+# NBA Play-Off Simulation
+Predict results of NBA Play-Off series based on refular season results
