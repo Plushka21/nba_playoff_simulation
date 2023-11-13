@@ -1,0 +1,19 @@
+SEASON,EAST_TEAMS,WEST_TEAMS,WINNER,RUNNER_UP
+2004,"['DET', 'PHI', 'IND', 'BOS', 'MIA', 'BKN', 'WAS', 'CHI']","['DAL', 'HOU', 'PHX', 'MEM', 'SAS', 'DEN', 'OKC', 'SAC']",SAS,DET
+2005,"['CLE', 'WAS', 'DET', 'MIL', 'MIA', 'CHI', 'BKN', 'IND']","['DAL', 'MEM', 'SAS', 'SAC', 'LAC', 'DEN', 'PHX', 'LAL']",MIA,DAL
+2006,"['CHI', 'MIA', 'DET', 'ORL', 'CLE', 'WAS', 'BKN', 'TOR']","['GSW', 'DAL', 'UTA', 'HOU', 'PHX', 'LAL', 'SAS', 'DEN']",SAS,CLE
+2007,"['BOS', 'ATL', 'CLE', 'WAS', 'DET', 'PHI', 'ORL', 'TOR']","['LAL', 'DEN', 'UTA', 'HOU', 'CHA', 'DAL', 'SAS', 'PHX']",BOS,LAL
+2008,"['ATL', 'MIA', 'CLE', 'DET', 'BOS', 'CHI', 'ORL', 'PHI']","['DAL', 'SAS', 'DEN', 'CHA', 'HOU', 'POR', 'LAL', 'UTA']",LAL,ORL
+2009,"['ATL', 'MIL', 'ORL', 'CHA', 'BOS', 'MIA', 'CLE', 'CHI']","['LAL', 'OKC', 'UTA', 'DEN', 'PHX', 'POR', 'SAS', 'DAL']",LAL,BOS
+2010,"['ATL', 'ORL', 'CHI', 'IND', 'BOS', 'NYK', 'MIA', 'PHI']","['DAL', 'POR', 'LAL', 'CHA', 'MEM', 'SAS', 'OKC', 'DEN']",DAL,MIA
+2011,"['BOS', 'ATL', 'PHI', 'CHI', 'IND', 'ORL', 'MIA', 'NYK']","['LAL', 'DEN', 'OKC', 'DAL', 'LAC', 'MEM', 'SAS', 'UTA']",MIA,OKC
+2012,"['CHI', 'BKN', 'MIA', 'MIL', 'IND', 'ATL', 'NYK', 'BOS']","['GSW', 'DEN', 'SAS', 'LAL', 'MEM', 'LAC', 'OKC', 'HOU']",MIA,SAS
+2013,"['BKN', 'TOR', 'MIA', 'CHA', 'IND', 'ATL', 'WAS', 'CHI']","['LAC', 'GSW', 'OKC', 'MEM', 'POR', 'HOU', 'SAS', 'DAL']",SAS,MIA
+2014,"['ATL', 'BKN', 'WAS', 'TOR', 'CHI', 'MIL', 'CLE', 'BOS']","['GSW', 'NOP', 'MEM', 'POR', 'HOU', 'DAL', 'LAC', 'SAS']",GSW,CLE
+2015,"['ATL', 'BOS', 'CLE', 'DET', 'MIA', 'CHA', 'TOR', 'IND']","['GSW', 'HOU', 'POR', 'LAC', 'OKC', 'DAL', 'SAS', 'MEM']",CLE,GSW
+2016,"['BOS', 'CHI', 'WAS', 'ATL', 'CLE', 'IND', 'TOR', 'MIL']","['GSW', 'POR', 'UTA', 'LAC', 'HOU', 'OKC', 'SAS', 'MEM']",GSW,CLE
+2017,"['BOS', 'MIL', 'PHI', 'MIA', 'CLE', 'IND', 'TOR', 'WAS']","['GSW', 'SAS', 'NOP', 'POR', 'HOU', 'MIN', 'UTA', 'OKC']",GSW,CLE
+2018,"['BOS', 'IND', 'MIL', 'DET', 'PHI', 'BKN', 'TOR', 'ORL']","['DEN', 'SAS', 'POR', 'OKC', 'GSW', 'LAC', 'HOU', 'UTA']",TOR,GSW
+2019,"['BOS', 'PHI', 'TOR', 'BKN', 'MIA', 'IND', 'MIL', 'ORL']","['DEN', 'UTA', 'LAC', 'DAL', 'HOU', 'OKC', 'LAL', 'POR']",LAL,MIA
+2020,"['ATL', 'NYK', 'PHI', 'WAS', 'BKN', 'BOS', 'MIL', 'MIA']","['DEN', 'POR', 'PHX', 'LAL', 'LAC', 'DAL', 'UTA', 'MEM']",MIL,PHX
+2021,"['BOS', 'BKN', 'MIL', 'CHI', 'MIA', 'ATL', 'PHI', 'TOR']","['DAL', 'UTA', 'PHX', 'NOP', 'GSW', 'DEN', 'MEM', 'MIN']",GSW,BOS
